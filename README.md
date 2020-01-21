@@ -90,3 +90,8 @@ I've kept a blog as a record of my experience learning to code here: https://amy
 
 * I like to keep fit by going to the gym, running and indoor climbing
 * I love eating good food and attempting to cook it myself!
+
+## Contact
+
+**Email**: amy.balmforth@gmail.com
+**Linkedin**: https://www.linkedin.com/in/amy-balmforth-83214626/
