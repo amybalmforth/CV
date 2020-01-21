@@ -93,6 +93,6 @@ I've kept a blog as a record of my experience learning to code here: https://amy
 
 ## Contact
 
-**Mobile**: 07986461943
-**Email**: amy.balmforth@gmail.com
-**Linkedin**: https://www.linkedin.com/in/amy-balmforth-83214626/
+* Mobile: 07986461943
+* Email: amy.balmforth@gmail.com
+* Linkedin: https://www.linkedin.com/in/amy-balmforth-83214626/
