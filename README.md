@@ -4,7 +4,7 @@ I'm an enthusiastic software developer with a curiosity for learning and a passi
 
 ## Experience and education
 
-### Makers Academy - Full-stack software development bootcamp (September 2019 to January 2020)
+### Makers Academy (September 2019 to January 2020) - Full-stack software development bootcamp
 
 #### Tech skills gained:
 
@@ -63,5 +63,5 @@ Ruby, Ruby on Rails, Javascript, JQuery, Node.js, React.js, Express, Sinatra, HT
 
 * Mobile: 07986461943
 * Email: amy.balmforth@gmail.com
-* Linkedin: https://www.linkedin.com/in/amy-balmforth-83214626/
+* Linkedin: https://www.linkedin.com/in/amy-balmforth/
 * Blog: https://amylearnstocode.wordpress.com
