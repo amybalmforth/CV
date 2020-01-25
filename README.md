@@ -8,7 +8,7 @@ I'm an enthusiastic software developer with a curiosity for learning and a passi
 
 #### Tech skills gained:
 
-Ruby, Ruby on Rails, Javascript, JQuery, Node.js, React.js, Express, Sinatra, HTML, CSS, RSpec, Capybara, Jasmine, Cypress, Sinon, PostgreSQL, Datamapper, ActiveRecord, Git workflow, Travis CI, Heroku deployment
+Ruby, Ruby on Rails, Javascript, JQuery, Node.js, React.js, Express, Sinatra, HTML, CSS, Bootstrap, RSpec, Capybara, Jasmine, Cypress, Sinon, PostgreSQL, Datamapper, ActiveRecord, Git workflow, Travis CI, Heroku deployment
 
 #### Behavioural skills gained:
 
@@ -53,10 +53,10 @@ Ruby, Ruby on Rails, Javascript, JQuery, Node.js, React.js, Express, Sinatra, HT
 
 | Project | Description | Technologies |
 |---|---|---|
-| [CashCow](https://github.com/amybalmforth/cashcow) | Final group project at Makers: An app which allows users to search a company stock symbol and see live information about the stock. Users can also sign up to track their own stock portfolio. [Deployed on Heroku](https://cashcow2020.herokuapp.com/) | React, NodeJS, Express, PostgreSQL, Jasmine, Travis CI |
-| [Dashbook](https://github.com/amybalmforth/acebook-AceofBaseBook) | Group project at Makers: A social network website built with Rails. [Deployed on Heroku](https://blooming-harbor-19656.herokuapp.com/) | Ruby on Rails, Rspec, Capybara, ActiveRecord, Travis CI |
+| [CashCow](https://github.com/amybalmforth/cashcow) | Final group project at Makers: An app which allows users to search a company stock symbol and see live information about the stock. Users can also sign up to track their own stock portfolio. [Deployed on Heroku](https://cashcow2020.herokuapp.com/) | React, NodeJS, Express, PostgreSQL, Jasmine, Bootstrap, Travis CI |
+| [Dashbook](https://github.com/amybalmforth/acebook-AceofBaseBook) | Group project at Makers: A social network website built with Rails. [Deployed on Heroku](https://blooming-harbor-19656.herokuapp.com/) | Ruby on Rails, Rspec, Capybara, ActiveRecord, Bootstrap, Travis CI |
 | [Thermostat](https://github.com/amybalmforth/thermostat.git) | A responsive app which allows the user to interact with a thermostat UI | Javascript, Jasmine, JQuery |
-| [Winstagram](https://github.com/amybalmforth/instagram-challenge) | A photo-sharing social network website built with Rails | Ruby on Rails |
+| [Winstagram](https://github.com/amybalmforth/instagram-challenge) | A photo-sharing social network website built with Rails | Ruby on Rails, Bootstrap |
 | [Chitter Frontend](https://github.com/amybalmforth/frontend-api-challenge) | A frontend for a Twitter-like app which makes API calls to an existing backend | Javascript, JQuery |
 
 ## Contact
