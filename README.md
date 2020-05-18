@@ -1,8 +1,25 @@
 ## Amy Balmforth
 
-I'm an enthusiastic software developer with a curiosity for learning and a passion for building interesting projects with code. After a successful eleven-year career in logistics within the luxury industry, I decided I was ready for a new challenge: I wanted a career where I can learn new things every day and build solutions that drive real business impact. I've just graduated from Makers Academy, an intensive 12-week full-stack software development bootcamp, and I'm now looking for an exciting developer role in a company that has an engineer-led Agile mindset and is somewhere I can make a difference from day one. I'm particularly interested in learning more about containerisation and microservices: I believe these allow teams more flexibility, reduce dependencies and give developers more control.
+I'm an enthusiastic software developer with a curiosity for learning and a passion for building interesting projects with code. I'm a career changer: after a successful eleven years working in logistics for the luxury industry, I decided I wanted a career where I can learn new things every day and build solutions that drive real business impact. I’m currently working as a junior Python developer - unfortunately the company is running out of money so I am now looking for my next challenge. I retrained at Makers Academy, a 12-week full-stack software development bootcamp. I'm looking for an exciting junior developer role in a company that has an engineer-led Agile mindset and is somewhere I can make a difference from day one.
 
 ## Experience and education
+
+### Junior Backend Developer - Wayhome (March 2020 to present)
+
+#### Tech skills gained:
+
+Python, Docker, Kubernetes, Helm, Terraform, Google Cloud, BigQuery, Google pub/sub, Aiohttp, Django, Prometheus, CircleCI, Behave, Redis, BDD, Grafana, API design and documentation, SQL
+
+Financial technology startup with a focus on property. I worked on Python microservices and helped to create and maintain different business functionalities, including retrieving and updating data, calling internal and external APIs and testing services locally in Docker containers.
+
+#### Behavioural skills gained:
+
+* Learned fast: was able to deploy a new feature to production within a week of joining the team
+* Understanding technical strategy: took responsibility for DevOps tooling migration from Jenkins to CircleCI
+* Confident communicator: Liaised with management and line of business owners to understand product requirements from a business perspective
+* Practiced Agile ways of working: daily stand-ups, fortnightly retrospectives, used Jira/Kanban board to assign tasks and prioritise backlog of work
+* TDD: Used test-driven development approach to break down and solve problems
+* Pair programming: Pair programmed with other team members using the driver/navigator style switching places regularly
 
 ### Makers Academy (September 2019 to January 2020) - Full-stack software development bootcamp
 
@@ -12,9 +29,6 @@ Ruby, Ruby on Rails, Javascript, JQuery, Node.js, React.js, Express, Sinatra, HT
 
 #### Behavioural skills gained:
 
-* TDD: Can employ test-driven development to break down and solve any problem
-* Agile: Practiced Agile ways of working during group projects at Makers: Scrum, sprints, daily stand-ups, retrospectives, Kanban
-* Pair programming: paired throughout the course at Makers including on group projects - ensured that pairs switched tasks regularly in order to ensure each team member got exposure to every part of the project
 * Iterative development: committing to an MVP, working towards it, reviewing if necessary
 * Problem solving: Able to break complicated problems down into chunks or user stories: for example building a bowling game - was able to break the problem down into steps to guide myself through the process of building a more complex game involving different rules for strike, spare, etc.
 * Self-led learning: was able to learn how to make API calls for a personal project when this had not previously been taught during the course
